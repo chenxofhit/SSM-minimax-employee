@@ -4,7 +4,7 @@
 
 0，项目依赖的JDK版本为1.8；确保Maven配置正确（本人的maven版本为Apache Maven 3.9.6，且配置了阿里云mirror）；代码：https://github.com/chenxofhit/SSM-minimax-employee ，请下载至本地！
 
-1，利用MySQL客户端Navicat、SQLoyg或者命令行创建本地数据库 ssmminimax，执行SQL文件夹下的 EMPLOYEE_DEPART.sql 文件；
+1，利用MySQL客户端Navicat、SQLoyg或者命令行创建本地数据库 ssmminimax，执行SQL文件夹下的 EMPLOYEE_DEPART.sql 文件初始化表及插入数据；
 
 2，打开IDEA Ultimate导入Maven项目；
 
