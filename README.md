@@ -48,12 +48,14 @@
 
 ![7.1](https://raw.githubusercontent.com/chenxofhit/picx-images-hosting/master/202404200130305.png)
 
-访问前端的页面：http://localhost:8090/minimax_war_exploded/
+接着，在浏览器上访问：http://localhost:8090/minimax_war_exploded/
 
 ![7.2](https://raw.githubusercontent.com/chenxofhit/picx-images-hosting/master/202404200133393.png)
 
-如果正常展示上面的页面，说明项目部署成功。用户可以在页面上按照条件筛选查询：
+如果正常展示上面的页面，说明项目运行成功了，有需求可以在这个项目上进行二次开发。用户可以在页面上按照条件筛选查询：
 ![7.3](https://raw.githubusercontent.com/chenxofhit/picx-images-hosting/master/202404200140982.png)
 
-撒花🎉🚀💻，Coffee time Now。
+8，如果项目要部署上线，先要对项目进行打包：![8](https://raw.githubusercontent.com/chenxofhit/picx-images-hosting/master/202404212005242.png)
+，如果控制台显示“[INFO] BUILD SUCCESS“字样，说明项目打包📦成功。接着上传这个war包到线上的Web容器比如Tomcat的webapps目录上
 
+撒花🎉🚀💻，Coffee time Now。
